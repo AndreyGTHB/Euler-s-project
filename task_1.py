@@ -5,4 +5,4 @@ for i in range(1000):
         print(i)
         answer += i
 print(" ")
-print(answer)
+print(answer )
